@@ -26,19 +26,33 @@ Here are some ideas to get you started:
 ## ✨Skills:
 <!-- ![JavaScript](https://img.shields.io/badge/Lenguaje-JavaScript-3DDC84?style=for-the-badge&labelColor=101010&logo=javascript&logoColor=white)</br> -->
 
+### {Web Design}
+![Figma](https://img.shields.io/badge/Figma-08D9D6?style=for-the-badge&labelColor=101010&logo=figma&logoColor=white)</br>
+![AdobeXD](https://img.shields.io/badge/Adobe_XD-08D9D6?style=for-the-badge&labelColor=101010&logo=adobexd&logoColor=white)</br>
+
 ### {Frontend}
 
 ![HTML](https://img.shields.io/badge/HTML-08D9D6?style=for-the-badge&labelColor=101010&logo=html5&logoColor=white)</br>
-![CSS](https://img.shields.io/badge/CSS-08D9D6?style=for-the-badge&labelColor=101010&logo=css3&logoColor=white)</br>
-![JavaScript](https://img.shields.io/badge/JavaScript-08D9D6?style=for-the-badge&labelColor=101010&logo=javascript&logoColor=white)</br>
-![Bootstrap](https://img.shields.io/badge/Bootstrap-08D9D6?style=for-the-badge&labelColor=101010&logo=bootstrap&logoColor=white)</br></br>
+![CSS](https://img.shields.io/badge/CSS-08D9D6?style=for-the-badge&labelColor=101010&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-08D9D6?style=for-the-badge&labelColor=101010&logo=sass&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-08D9D6?style=for-the-badge&labelColor=101010&logo=gulp&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-08D9D6?style=for-the-badge&labelColor=101010&logo=bootstrap&logoColor=white)</br>
+![JavaScript](https://img.shields.io/badge/JavaScript-08D9D6?style=for-the-badge&labelColor=101010&logo=javascript&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-08D9D6?style=for-the-badge&labelColor=101010&logo=json&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-08D9D6?style=for-the-badge&labelColor=101010&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-08D9D6?style=for-the-badge&labelColor=101010&logo=cypress&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-08D9D6?style=for-the-badge&labelColor=101010&logo=webpack&logoColor=white)
+![Eslint](https://img.shields.io/badge/Eslint-08D9D6?style=for-the-badge&labelColor=101010&logo=eslint&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-08D9D6?style=for-the-badge&labelColor=101010&logo=babel&logoColor=white)</br></br>
+
+
 
 ### {Backend}
 
-![Java](https://img.shields.io/badge/JavaScript-FF2E63?style=for-the-badge&labelColor=101010&logo=java&logoColor=white)</br>
-![Spring](https://img.shields.io/badge/Spring-FF2E63?style=for-the-badge&labelColor=101010&logo=spring&logoColor=white)</br>
+![Java](https://img.shields.io/badge/JavaScript-FF2E63?style=for-the-badge&labelColor=101010&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-FC5185?style=for-the-badge&labelColor=101010&logo=spring&logoColor=white)</br>
 
-![Python](https://img.shields.io/badge/Python-FC5185?style=for-the-badge&labelColor=101010&logo=python&logoColor=white)</br>
+![Python](https://img.shields.io/badge/Python-FF2E63?style=for-the-badge&labelColor=101010&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-FC5185?style=for-the-badge&labelColor=101010&logo=django&logoColor=white)</br></br>
 
 ### {Data Base Administration}
