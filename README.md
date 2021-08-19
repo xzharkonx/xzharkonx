@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 
 ## ✨Skills
----
 
 ![Figma](https://img.shields.io/badge/Figma-AE00FB?style=for-the-badge&labelColor=101010&logo=figma&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/Adobe_XD-AE00FB?style=for-the-badge&labelColor=101010&logo=adobexd&logoColor=white)</br>
@@ -51,7 +50,6 @@ Here are some ideas to get you started:
 ![PostgreSql](https://img.shields.io/badge/PostgreSql-3DDC84?style=for-the-badge&labelColor=101010&logo=postgresql&logoColor=white)</br>
 
 ## ⚡Proyects
----
 
 - 😄 Simple Pages 
   - [Blog page](https://xzharkonx.github.io/Incognita-Espacial)</br>
@@ -59,7 +57,6 @@ Here are some ideas to get you started:
   - [Proyecto - Sitio web de cursos [V1.0.0-alpha.1] ](https://xzharkonx.github.io/proyecto-sitio-web-cursos/)</br>
 
 ## 💬 My data
----
 
 * Please do not hesitate to contact me in order to receive additional information: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_E._Garcia_M.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-eduardo-garcia-mercado-196496166)
