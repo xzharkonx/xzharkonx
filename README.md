@@ -1,5 +1,5 @@
 # 👋😄 Hi there, I am Luis E. Garcia M.
-### I am a **enginner in computer systems**, *full stack developer* and autodidacted student. 
+### I am an **enginner in computer systems**, *full stack developer* and autodidacted student. 
 
 <!--
 **xzharkonx/xzharkonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
