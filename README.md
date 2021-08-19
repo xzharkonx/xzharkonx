@@ -58,5 +58,6 @@ Here are some ideas to get you started:
 
 ## 💬 My data
 
-* Please do not hesitate to contact me in order to receive additional information: 
+* Please do not hesitate to contact me in order to receive additional information:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_E._Garcia_M.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-eduardo-garcia-mercado-196496166)
