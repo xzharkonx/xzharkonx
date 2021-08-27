@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![Eslint](https://img.shields.io/badge/Eslint-FFE459?style=for-the-badge&labelColor=101010&logo=eslint&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-FFE459?style=for-the-badge&labelColor=101010&logo=babel&logoColor=white)
 
-![Java](https://img.shields.io/badge/JavaScript-FF2E63?style=for-the-badge&labelColor=101010&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF2E63?style=for-the-badge&labelColor=101010&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-FC5185?style=for-the-badge&labelColor=101010&logo=spring&logoColor=white)</br>
 ![Python](https://img.shields.io/badge/Python-FF2E63?style=for-the-badge&labelColor=101010&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-FC5185?style=for-the-badge&labelColor=101010&logo=django&logoColor=white)
